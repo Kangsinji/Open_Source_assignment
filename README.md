@@ -35,7 +35,8 @@
  ---
  - ⏩️ 시작 화면
  - ⏩️ 게임 화면 & 플레이 화면
-   ![txt](./Game_background.png) 
+
+    ![txt](./Game_background.png) 
 
  ---
 
