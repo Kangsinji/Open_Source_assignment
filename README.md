@@ -39,8 +39,10 @@
    
  - ⏩️ 게임 화면
 
-    ![txt](./Game_background.png) 
+    ![txt](./Game_background.png)
+   
  - ⏩️ 게임 플레이 화면
+
     ![txt](./Game_action2.png)
 
  ---
